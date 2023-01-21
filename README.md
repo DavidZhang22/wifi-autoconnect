@@ -10,6 +10,7 @@ To use:
     - Select "on an event" from the dropdown
     - Select "Microsoft-Windows-NetworkProfile/Operational" from as the Log
     - Write "10001" as the Event ID
+4. Add a second trigger "On startup"
 4. Select the Actions tab and add new action
     - Select start a program from the dropdown
     - Write "powershell" in the program/script input
